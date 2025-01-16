@@ -6,7 +6,7 @@
 ### <div align="center">I'm Gabriel</div>  
   
 
-- 🔭 I’m currently working on Lazarus, a library to automate WhastApp  
+- 🔭 I am currently working on Datasalud, a medical platform integrated with AI to help doctors learn about their patients.  
   
 
 - 🌱 I’m currently learning Rust and C#  
