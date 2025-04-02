@@ -6,7 +6,7 @@
 ### <div align="center">I'm Gabriel</div>  
   
 
-- 🔭 I am currently working on Datasalud, a medical platform integrated with AI to help doctors learn about their patients.  
+- 🔭 I am currently working on Fifthwall Solutions.  
   
 
 - 🌱 I’m currently learning Rust and C#  
